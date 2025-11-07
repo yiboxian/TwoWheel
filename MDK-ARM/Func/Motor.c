@@ -1,5 +1,12 @@
 #include "stm32f1xx_hal.h"
 #include "tim.h"
+struct Motor
+{       
+        int8_t MAX_Speed;
+        int8_t Speed;
+        /* data */
+};
+
 void Motor_Setspeed(int8_t Speed)
 {
 	if(Speed >= 0)
