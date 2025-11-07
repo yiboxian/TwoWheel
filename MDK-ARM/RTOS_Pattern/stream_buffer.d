@@ -1,8 +1,8 @@
 rtos_pattern\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
-rtos_pattern\stream_buffer.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
-rtos_pattern\stream_buffer.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\string.h
+rtos_pattern\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+rtos_pattern\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
 rtos_pattern\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-rtos_pattern\stream_buffer.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+rtos_pattern\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
 rtos_pattern\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
 rtos_pattern\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 rtos_pattern\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

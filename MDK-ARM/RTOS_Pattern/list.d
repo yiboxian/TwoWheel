@@ -1,8 +1,8 @@
 rtos_pattern\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
-rtos_pattern\list.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+rtos_pattern\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 rtos_pattern\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-rtos_pattern\list.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
-rtos_pattern\list.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+rtos_pattern\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+rtos_pattern\list.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 rtos_pattern\list.o: ../Core/Inc/FreeRTOSConfig.h
 rtos_pattern\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 rtos_pattern\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

@@ -477,12 +477,11 @@ ork --depend=rtos_pattern\startup_stm32f103xb.d -ortos_pattern\startup_stm32f10
 TM32F1xx_HAL_Driver/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/include -I
 ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third
 _Party/FreeRTOS/Source/portable/RVDS/ARM_CM3 -I../Drivers/CMSIS/Device/ST/STM32
-F1xx/Include -I.\RTE\_RTOS_Pattern -ID:\Workbench\DevPack\VSCode+Keil5+STM32Cub
-eMX\Keil_STDPacks\ARM\CMSIS\5.9.0\CMSIS\Core\Include -ID:\Workbench\DevPack\VSC
-ode+Keil5+STM32CubeMX\Keil_STDPacks\Keil\STM32F1xx_DFP\2.4.1\Device\Include --p
-redefine="__UVISION_VERSION SETA 538" --predefine="_RTE_ SETA 1" --predefine="S
-TM32F10X_MD SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32f103xb.lst s
-tartup_stm32f103xb.s
+F1xx/Include -I../Drivers/CMSIS/Include -I.\RTE\_RTOS_Pattern -ID:\Keil5\ARM\CM
+SIS\5.9.0\CMSIS\Core\Include -ID:\Keil5\Keil\STM32F1xx_DFP\2.4.1\Device\Include
+ --predefine="__UVISION_VERSION SETA 538" --predefine="_RTE_ SETA 1" --predefin
+e="STM32F10X_MD SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32f103xb.l
+st startup_stm32f103xb.s
 
 
 

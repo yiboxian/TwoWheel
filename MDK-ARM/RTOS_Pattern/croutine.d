@@ -1,7 +1,7 @@
 rtos_pattern\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 rtos_pattern\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-rtos_pattern\croutine.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
-rtos_pattern\croutine.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+rtos_pattern\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+rtos_pattern\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 rtos_pattern\croutine.o: ../Core/Inc/FreeRTOSConfig.h
 rtos_pattern\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 rtos_pattern\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

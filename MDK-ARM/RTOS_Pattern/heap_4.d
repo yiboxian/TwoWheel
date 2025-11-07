@@ -1,8 +1,8 @@
 rtos_pattern\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
-rtos_pattern\heap_4.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+rtos_pattern\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 rtos_pattern\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-rtos_pattern\heap_4.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
-rtos_pattern\heap_4.o: D:\Software\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+rtos_pattern\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+rtos_pattern\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 rtos_pattern\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
 rtos_pattern\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 rtos_pattern\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
